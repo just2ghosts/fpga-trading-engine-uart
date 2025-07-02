@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Ignore VSCode project settings
+.vscode/
+
+# Ignore logs or junk
+*.log
+*.DS_Store
